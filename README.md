@@ -10,6 +10,8 @@
 
 In git-bash type "log", select namespace number and available pod number.
 
+![](https://github.com/irymaruk/kubernetes-log/blob/master/src/test/resources/kubernetes-log.png)
+
 ### Output
 
 On the screen above we choose to stream logs from all pods (in parallel) that have label app=clinicaldecisionsupport on
